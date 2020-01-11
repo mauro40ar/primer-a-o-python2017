@@ -1,0 +1,3 @@
+def RecInf():
+    RecInf()
+RecInf()
